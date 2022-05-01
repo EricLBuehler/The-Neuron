@@ -6,6 +6,14 @@ Eric Buehler 2022
 
 ![Neuron](/images/neuron.jpg)
 
+## Getting started
+1. Collect data (See ```neuron-collect_data```)
+2. Train AI (See ```neuron-ai```)
+3. Start webserver (See ```neuron-server```)
+4. Begin autonomous driving (See ```neuron-autonomous-drive```)
+
+
+
 ## Parts
 
 ### Chassis
