@@ -7,6 +7,8 @@ Eric Buehler 2022
 
 ![Neuron](/images/neuron.jpg)
 
+## What is this?
+This is an autonomous robot that drives using AI. It uses a depth camera to provide an AI with the information needed to autonomously drive, which is a task the AI performs very well. This robot has been tested in many different enviorments, with positive results.
 
 ## Assembly
 To build this robot, follow this [assembly guide](assembly.md).
@@ -15,6 +17,12 @@ To build this robot, follow this [assembly guide](assembly.md).
 Before starting for autonomous driving, check out [this](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-drive).
 
 Click [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-collect_data) to begin.
+
+- [Data collection](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-collect_data)
+- [AI](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-ai)
+- [Webserver](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-server)
+- [Autonomous driving](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-autonomous-drive)
+- [Manual driving](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-drive)
 
 ## Parts
 
