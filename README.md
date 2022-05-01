@@ -37,4 +37,4 @@ However, this product is not currently available. Although any chassis can be us
 
 ### Batteries
 - USB battery bank for the Raspberry Pi
-- 2 9V batteries for each motor controller.
+- 2 9V batteries for each motor controller
