@@ -40,7 +40,7 @@ However, this product is not currently available. Although any chassis can be us
 ### Connectors
 - [Short USB-A to USB-C connector](https://www.amazon.com/CableCreation-Braided-Compatible-MacBook-Resistance/dp/B01CZVEUIE/ref=mp_s_a_1_1_sspa?dchild=1&keywords=usb+a+to+usb+c+short&qid=1591567443&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMURQRk1QNDlZNEtKJmVuY3J5cHRlZElkPUEwNTc4MzIwM0FVNko0NjAxSUMzJmVuY3J5cHRlZEFkSWQ9QTA5NTI0MzkxVTkxQThMMkg0UzZCJndpZGdldE5hbWU9c3BfcGhvbmVfc2VhcmNoX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
-- [Battery clip](https://www.amazon.com/QMseller-Battery-I-Type-Connector-Plastic/dp/B07PPZXF5L/ref=sr_1_15?keywords=9V+battery+clip&qid=1651366664&sr=8-15)
+- [Battery clips](https://www.amazon.com/QMseller-Battery-I-Type-Connector-Plastic/dp/B07PPZXF5L/ref=sr_1_15?keywords=9V+battery+clip&qid=1651366664&sr=8-15)
 
 ### Batteries
 - USB battery bank for the Raspberry Pi
