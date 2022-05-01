@@ -9,18 +9,12 @@ Eric Buehler 2022
 
 
 ## Assembly
-To build The Neuron, follow this [assembly guide](assembly.md).
+To build this robot, follow this [assembly guide](assembly.md).
 
 ## Getting started
-Before starting the process of getting ready for autonomous driving, check out [this](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-drive).
+Before starting for autonomous driving, check out [this](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-drive).
 
-To begin the process for autonomous driving:
-1. Collect data (See ```neuron-collect_data``` [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-collect_data))
-2. Train AI (See ```neuron-ai``` [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-ai))
-3. Start webserver (See ```neuron-server``` [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-server))
-4. Begin autonomous driving (See ```neuron-autonomous-drive``` [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-autonomous-drive))
-
-
+Click [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-collect_data) to begin.
 
 ## Parts
 
