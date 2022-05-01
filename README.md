@@ -2,6 +2,9 @@
 ### An autonomous robot, powered by AI.
 
 Eric Buehler 2022
+
+
+
 ![Neuron](/images/neuron.jpg)
 
 
