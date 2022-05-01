@@ -9,7 +9,7 @@ Eric Buehler 2022
 
 
 ## Assembly
-[Assembly guide](assembly.md)
+To build The Neuron, follow this [assembly guide](assembly.md).
 
 ## Getting started
 Before starting the process of getting ready for autonomous driving, check out [this](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-drive).
