@@ -47,3 +47,10 @@ The train program will output a final model in PyTorch ```.pth``` format, as wel
 
 ## Visualizing results
 Before visualizing results, ensure that the ```prefix``` variable is set to the correct working directory, and that the variable ```modelname``` corresponds to the correct model.
+
+
+
+
+[Back](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-collect_data)
+
+[Next](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-server)
