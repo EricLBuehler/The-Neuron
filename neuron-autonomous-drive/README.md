@@ -1,6 +1,8 @@
 # Autonomous driving
 
-**To begin autonomous driving:**
+![Autonomous driving flowchart](/images/driving-flow.jpg)
+
+## To begin autonomous driving:
 1. Start the webserver on a machine of your choice.
 2. Run ```drive.py``` to start driving.
 
