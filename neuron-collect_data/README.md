@@ -7,3 +7,7 @@ This program is desinged to stop collecting data once the appropriate amount is 
 To drive, use the ```w``` ```a``` ```s``` ```d``` keys for directional control, and the digits 1-9 for speed control. The space is a stop that is logged in the data collection system, and the key ```e``` triggers a stop that is not logged.
 
 Note: When connecting to a remote viewing software such as VNC, be sure to boot the Raspberry Pi while it is connected to HDMI. This will cause the Raspberry Pi to use the full screen.
+
+[Back](https://github.com/EricLBuehler/The-Neuron)
+
+[Next](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-ai)
