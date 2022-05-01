@@ -34,8 +34,8 @@ However, this product is not currently available. Although any chassis can be us
 ### Luxonis OAK-D camera
 [Depth camera](https://www.amazon.com/Luxonis-Oak-D-Spatial-Camera-Detection/dp/B09B316YZS/ref=sr_1_3?keywords=depth+camera&qid=1646776703&sr=8-3)
 
-### Raspberry Pi 4B
-[Raspberry Pi 4B](https://www.canakit.com/raspberry-pi-4-starter-kit.html)
+### Raspberry Pi 4B - 8GB version
+[Raspberry Pi 4B - 8GB](https://www.canakit.com/raspberry-pi-4-starter-kit.html)
 
 ### Connectors
 - [Short USB-A to USB-C connector](https://www.amazon.com/CableCreation-Braided-Compatible-MacBook-Resistance/dp/B01CZVEUIE/ref=mp_s_a_1_1_sspa?dchild=1&keywords=usb+a+to+usb+c+short&qid=1591567443&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMURQRk1QNDlZNEtKJmVuY3J5cHRlZElkPUEwNTc4MzIwM0FVNko0NjAxSUMzJmVuY3J5cHRlZEFkSWQ9QTA5NTI0MzkxVTkxQThMMkg0UzZCJndpZGdldE5hbWU9c3BfcGhvbmVfc2VhcmNoX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
