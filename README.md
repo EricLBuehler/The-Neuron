@@ -2,9 +2,8 @@
 ### An autonomous robot, powered by AI.
 
 Eric Buehler 2022
-
-
 ![Neuron](/images/neuron.jpg)
+
 
 ## Getting started
 1. Collect data (See ```neuron-collect_data```)
@@ -19,7 +18,7 @@ Eric Buehler 2022
 ### Chassis
 [Original Chassis](https://www.amazon.com/Platform-Powerful-Raspberry-Education-11-0x9-8x4-5inch/dp/B07MVYZHXD/ref=sr_1_22?dchild=1&keywords=raspberry%2Bpi%2Brobot%2Bchassis&qid=1591869810&sr=8-22&th=1)
 
-However, this product is not currently available. Although any chassis can be used, [this](https://www.amazon.com/Chassis-Aluminum-Platform-Raspberry-Projects/dp/B078HQ5T5H/ref=sr_1_8?keywords=raspberry%2Bpi%2Brobot%2Bchassis&qid=1651366359&sr=8-8) is an alternate option.
+However, this product is not currently available. Although any chassis can be used, [this](https://www.amazon.com/Chassis-Aluminum-Platform-Raspberry-Projects/dp/B078HQ5T5H/ref=sr_1_8?keywords=raspberry%2Bpi%2Brobot%2Bchassis&qid=1651366359&sr=8-8) is an alternate option. However, the assembly guide assumes that you are using the original chassis.
 
 ### Motor controller
 **2X** [Motor controller](https://www.amazon.com/Adafruit-DRV8871-Motor-Driver-Breakout/dp/B06Y4VRXN4/ref=sr_1_2?dchild=1&keywords=Adafruit+DRV8871+DC+Motor+Driver+Breakout+Board+-+3.6A+Max&qid=1592953477&sr=8-2)
@@ -38,3 +37,7 @@ However, this product is not currently available. Although any chassis can be us
 ### Batteries
 - USB battery bank for the Raspberry Pi
 - 2 9V batteries for each motor controller
+
+### Miscellaneous
+- Breadboard
+- Jumper wires (female-male)
