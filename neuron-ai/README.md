@@ -7,6 +7,10 @@ The Neuron utilizes a PerceiverIO model for autonomous driving. The model is bui
 ### Architecture
 The AI used in this application is based on a PerceiverIO. However, several multilayer perceptrons are built in to the model for things such as query generation and tensor dimension mapping. The PerceiverIO input dimension is 512, and the logits dimension is 5. The model's depth is 12, and has a ```latent_dim``` of 784, and a ```num_latents``` of 512. The PerceiverIO also has the decoder feed-forward enabled.
 
+### Input encoding
+- Convs
+- Positional encoding
+
 ### Query generation
 I use a multilayer perceptron to generate queries. The query generator scales the input dimension of the model (512) up to 1024, and then down to the query dimension (256). The query generator takes the PerceiverIO input as the input, and the output is directly used as the query for the PerceiverIO.
 
