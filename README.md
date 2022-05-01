@@ -8,6 +8,9 @@ Eric Buehler 2022
 ![Neuron](/images/neuron.jpg)
 
 
+## Assembly
+[Assembly guide](assembly.md)
+
 ## Getting started
 1. Collect data (See ```neuron-collect_data```)
 2. Train AI (See ```neuron-ai```)
