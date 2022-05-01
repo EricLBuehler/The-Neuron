@@ -1,7 +1,7 @@
 # Neuron AI
 
 ## AI architecture
-## Overview
+### Overview
 The Neuron utilizes a PerceiverIO model for autonomous driving. The model is built using PyTorch, and is effectively a classifier.
 
 ### Architecture
