@@ -19,5 +19,4 @@ The dataset directory needs to contain the CSV file for data loading, as well as
 The train program will output a final model in PyTorch ```.pth``` format, as well loss and accuracy logs.
 
 ## Visualizing results
-Before visualizing, ensure that the ```prefix``` variable is set to the correct working directory, and that the variable ```modelname``` corresponds to the correct model.
-Accuracy and loss plots will be output by this program.
+Before visualizing results, ensure that the ```prefix``` variable is set to the correct working directory, and that the variable ```modelname``` corresponds to the correct model.
