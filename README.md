@@ -16,7 +16,7 @@ Before starting the process of getting ready for autonomous driving, check out [
 
 To begin the process for autonomous driving:
 1. Collect data (See ```neuron-collect_data``` [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-collect_data))
-2. Train AI (See ```neuron-ai``` [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-neuron-ai))
+2. Train AI (See ```neuron-ai``` [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-ai))
 3. Start webserver (See ```neuron-server``` [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-server))
 4. Begin autonomous driving (See ```neuron-autonomous-drive``` [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-autonomous-drive))
 
