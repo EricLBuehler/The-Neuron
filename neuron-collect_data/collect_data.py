@@ -70,7 +70,7 @@ except FileNotFoundError:
     
 
     
-datapoints=5000
+datapoints=3200
 
 
 camera.wdir="/home/pi/Neuron/v3/data/images/"
