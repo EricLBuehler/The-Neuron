@@ -1,5 +1,8 @@
 # The Neuron
-The Neuron is an autonomous robot, powered by AI.
+**The Neuron is an autonomous robot, powered by AI.**
+
+Eric Buehler 2022
+
 
 ![Neuron](/images/neuron.jpg)
 
