@@ -11,4 +11,4 @@
 7. For the left motor controller (when viewing from behind the robot), connect IN1 to GP23, and IN2 to GP22. 
 8. Screw in the red motor wire to the side of the motor screw terminal that has the number 2, and the black wire on the other terminal. Attach a battery clip in the same way, so that the order, down to up, when viewed from the back of the robot is red-black-red-black.
 9. For the right motor controller(when viewing from behind the robot), connect IN1 to GP24, and IN2 to GP25. Repeat step 8 on this motor controller.
-11. Begin driving. Use [this]() guide to help you.
+11. Begin driving. Use [this](https://github.com/EricLBuehler/The-Neuron#getting-started) guide to help you.
