@@ -3,7 +3,7 @@
 
 ![Neuron](/images/neuron.jpg)
 
-Before assembly, be sure you have all of the following [parts](https://github.com/EricLBuehler/The-Neuron#parts).
+Before assembly, be sure you have all of [these](https://github.com/EricLBuehler/The-Neuron#parts) parts.
 
 
 1. Setup the Raspberry Pi with 64-Bit Raspberry Pi OS. Be sure to enable VNC and SSH.
