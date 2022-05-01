@@ -48,8 +48,8 @@ However, this product is not currently available. Although any chassis can be us
 - 2 9V batteries for each motor controller
 
 ### Miscellaneous
-- Breadboard
-- Jumper wires (female-male)
+- 1 small Breadboard
+- 4 jumper wires (female-male)
 
 
 
