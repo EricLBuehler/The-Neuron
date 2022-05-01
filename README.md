@@ -12,6 +12,7 @@ Eric Buehler 2022
 [Assembly guide](assembly.md)
 
 ## Getting started
+Before starting the process of getting ready for autonomous driving, check out [this](https://www.amazon.com/Platform-Powerful-Raspberry-Education-11-0x9-8x4-5inch/dp/B07MVYZHXD/ref=sr_1_22?dchild=1&keywords=raspberry%2Bpi%2Brobot%2Bchassis&qid=1591869810&sr=8-22&th=1).
 1. Collect data (See ```neuron-collect_data```)
 2. Train AI (See ```neuron-ai```)
 3. Start webserver (See ```neuron-server```)
