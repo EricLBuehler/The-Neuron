@@ -3,6 +3,8 @@
 
 ![Neuron](/images/neuron.jpg)
 
+Before assembly, be sure you have all of the following [parts](https://github.com/EricLBuehler/The-Neuron#parts).
+
 
 1. Setup the Raspberry Pi with 64-Bit Raspberry Pi OS. Be sure to enable VNC and SSH.
 2. Mount the OAK-D depth camera to the front of the robot, in such a way that it is centered and is facing forward. The USB-C connector on the bottom should be routed through a hole, and connected to the one of the Raspberry Pi's USB 3.0 ports.
