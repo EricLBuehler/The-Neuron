@@ -13,11 +13,12 @@ To build The Neuron, follow this [assembly guide](assembly.md).
 
 ## Getting started
 Before starting the process of getting ready for autonomous driving, check out [this](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-drive).
+
 To begin the process for autonomous driving:
-1. Collect data (See ```neuron-collect_data```)
-2. Train AI (See ```neuron-ai```)
-3. Start webserver (See ```neuron-server```)
-4. Begin autonomous driving (See ```neuron-autonomous-drive```)
+1. Collect data (See ```neuron-collect_data``` [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-collect_data))
+2. Train AI (See ```neuron-ai``` [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-neuron-ai))
+3. Start webserver (See ```neuron-server``` [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-server))
+4. Begin autonomous driving (See ```neuron-autonomous-drive``` [here](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-autonomous-drive))
 
 
 
@@ -49,3 +50,16 @@ However, this product is not currently available. Although any chassis can be us
 ### Miscellaneous
 - Breadboard
 - Jumper wires (female-male)
+
+
+
+## References
+[Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795)
+
+[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
+
+[Video explanation of Perceiver IO](https://www.youtube.com/watch?v=P_xeshTnPZg)
+
+[GitHub implementation of PerceiverIO by Lucidrains](https://github.com/lucidrains/perceiver-pytorch)
+
+[PerceiverIO classifier for MNIST](https://github.com/EricLBuehler/PerceiverIO-Classifier)
