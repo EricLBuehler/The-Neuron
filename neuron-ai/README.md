@@ -48,9 +48,21 @@ The train program will output a final model in PyTorch ```.pth``` format, as wel
 ## Visualizing results
 Before visualizing results, ensure that the ```prefix``` variable is set to the correct working directory, and that the variable ```modelname``` corresponds to the correct model.
 
+## What to do if the model doesn't work?
+![Accuracy](/images/acc.png)
+![Loss](/images/loss.png)
+
+**Your loss plots should look similar to the ones above.**
 
 
+**After around 190 epochs, my model achieved:**
+- Train accuracy: 53.4375
+- Train loss: 0.1207
+- Test accuracy: 50.5625
+- Test loss: 0.1234
 
+If your model is not performing well, first try increasing the number of epochs. If this does not work, collect more data. You should have 3200 data points, but 3500 or 3800 should also work. However, increased epochs and more data points have not been tested, as the model worked.
+      
 [Back](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-collect_data)
 
 [Next](https://github.com/EricLBuehler/The-Neuron/tree/master/neuron-server)
