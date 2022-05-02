@@ -56,9 +56,9 @@ Before visualizing results, ensure that the ```prefix``` variable is set to the 
 
 
 **After around 190 epochs, my model achieved:**
-- Train accuracy: 53.4375
+- Train accuracy: 53.4375%
 - Train loss: 0.1207
-- Test accuracy: 50.5625
+- Test accuracy: 50.5625%
 - Test loss: 0.1234
 
 If your model is not performing well, first try increasing the number of epochs. If this does not work, collect more data. You should have 3200 data points, but 3500 or 3800 should also work. However, increased epochs and more data points have not been tested, as the model worked.
