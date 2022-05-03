@@ -24,8 +24,8 @@ Positional embeddings are then applied to the ouput of the convolutions and skip
 ### Query generation
 I use a multilayer perceptron to generate queries. The query generator scales the input dimension of the model (512) up to 1024, and then down to the query dimension (256). The query generator takes the PerceiverIO input as the input, and the output is directly used as the query for the PerceiverIO.
 
-### Final MLP
-The final output from the PerceiverIO is very high dimensional (```BS x 12800 x5```), and so I use a final multilayer perceptron to convert the high dimensional tensor down into a lower dimension. After the final multilayer perceptron, which consists of 7 layers, the dimension of the ouput is ```BS x 1 x 5```.
+### Final MLP and softmax
+The final output from the PerceiverIO is very high dimensional (```BS x 12800 x 5```), and so I use a final multilayer perceptron to convert the high dimensional tensor down into a lower dimension. After the final multilayer perceptron, which consists of 7 layers, the dimension of the ouput is ```BS x 1 x 5```. Finally, a softmax activation is applied to the output, which normalizes all values from 0-1, and also ensures that all values sum to 1.
 
 ## Training
 
