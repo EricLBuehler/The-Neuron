@@ -2,7 +2,7 @@
 
 ## AI architecture
 ### Overview
-The Neuron utilizes a PerceiverIO model for autonomous driving. The model is built using PyTorch, and is effectively a classifier.
+The Neuron utilizes a PerceiverIO model, which is a type of transformer, for autonomous driving. The model is built using PyTorch, and is set up to act as a classifier.
 
 ### Architecture
 The AI used in this application is based on a PerceiverIO. However, several multilayer perceptrons are built in to the model for things such as query generation and tensor dimension mapping. The PerceiverIO input dimension is 512, and the logits dimension is 5. The model's depth is 12, and has a ```latent_dim``` of 784, and a ```num_latents``` of 512. The PerceiverIO also has the decoder feed-forward enabled.
